@@ -42,10 +42,11 @@ For PSK:
 ![Screenshot 2025-04-06 190744](https://github.com/user-attachments/assets/6fd5c58a-b9cc-4828-b5cf-18f5c003c12e)
 ![Screenshot 2025-04-06 190827](https://github.com/user-attachments/assets/6ce23be8-9cd2-4b21-b64f-2374706ee9bd)
 ## TABLE
-![IMG-20250406-WA0037 1](https://github.com/user-attachments/assets/5d00c2b3-50a7-4a38-bbdd-590938437363)
+![ASK, FSK PSK](https://github.com/user-attachments/assets/4eda82b4-938f-419f-8f54-5c1f53807fc1)
+
 ## OUTPUT GRAPHS
-![Screenshot 2025-04-06 192336](https://github.com/user-attachments/assets/5de92c03-fdf1-492a-8ac9-42da6d235937)
-![Screenshot 2025-04-06 192344](https://github.com/user-attachments/assets/a21fa8fe-4c3e-4213-90c1-fc9ac6e77ee7)
-![Screenshot 2025-04-06 192351](https://github.com/user-attachments/assets/de983b5b-aa3c-4e3f-825a-af968ac84381)
+![WhatsApp Image 2025-05-21 at 20 26 03_5462cf78](https://github.com/user-attachments/assets/b57dae4b-ace9-48c9-a770-21d4897e111f)
+![WhatsApp Image 2025-05-21 at 20 26 13_91503feb](https://github.com/user-attachments/assets/33a2f614-a81a-470e-ab4d-b4c960d13177)
+![WhatsApp Image 2025-05-21 at 20 26 21_15b22642](https://github.com/user-attachments/assets/7cd636f8-f768-456b-82b9-9e9531ea9c03)
 ## RESULT 
 Thus the ASK, FSK AND PSK Modulation and Demodulation techniques were analyzed.
